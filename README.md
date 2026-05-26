@@ -22,3 +22,6 @@
 - **JavaScript (ES6)** → 搜尋篩選、事件綁定、DOM操作  
 
 ---
+## 🎾 成品展示
+
+![作品截圖](assets/screenshot.png)

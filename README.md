@@ -22,12 +22,3 @@
 - **JavaScript (ES6)** → 搜尋篩選、事件綁定、DOM操作  
 
 ---
-
-## 📂 專案結構
-
----
-
-## 🚀 使用方式
-1. Clone 專案：
-   ```bash
-   git clone https://github.com/你的帳號/tennis_web_portfolio.git
